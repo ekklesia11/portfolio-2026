@@ -78,7 +78,7 @@ export default function Home() {
           </div>
         </section>
 
-        {/* <section id="work" className="section work">
+        <section id="work" className="section work">
           <div className="section-head">
             <h2>Selected Work</h2>
             <p>
@@ -94,7 +94,7 @@ export default function Home() {
               behind.
             </div>
           )}
-        </section> */}
+        </section>
 
         <section id="about" className="section about">
           <div className="about-left">
@@ -126,7 +126,7 @@ export default function Home() {
           </div>
         </section>
 
-        {/* <section id="insights" className="section insights">
+        <section id="insights" className="section insights">
           <div className="section-head">
             <h2>Insights</h2>
             <p>Dispatches on product craft, systems thinking, and pragmatic design.</p>
@@ -146,7 +146,7 @@ export default function Home() {
               New essays are in progress. I only publish notes after they have been tested in production.
             </div>
           )}
-        </section> */}
+        </section>
       </main>
 
       <footer id="contact" className="footer">

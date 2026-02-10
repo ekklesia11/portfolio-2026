@@ -21,26 +21,8 @@
     "Prisma"
   ],
   "projects": [
-    {
-      "title": "Trust Ledger",
-      "description": "Resilient backend platform for identity verification and audit trails across partner services.",
-      "tags": [
-        "Backend",
-        "Security",
-        "Platform"
-      ],
-      "links": {
-        "live": "https://example.com",
-        "code": "https://github.com/ekklesia11"
-      }
-    }
   ],
   "posts": [
-    {
-      "title": "Designing Trust in Backend Systems",
-      "date": "2026-02-05",
-      "summary": "A short framework for reliability, observability, and human-centric system design."
-    }
   ],
   "contact": {
     "email": "happyyquokka@gmail.com",
