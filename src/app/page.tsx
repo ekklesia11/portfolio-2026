@@ -133,7 +133,7 @@ export default function Home() {
           </div>
           {hasPosts ? (
             <div className="grid notes-grid">
-              {site.posts.map((post) => (
+              {site.posts.map((post: any) => (
                 <article key={post.title} className="note">
                   <span>{post.date}</span>
                   <h3>{post.title}</h3>
