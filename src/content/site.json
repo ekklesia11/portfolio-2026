@@ -1,0 +1,50 @@
+{
+  "name": "Daniel Park",
+  "role": "Software Engineer",
+  "location": "Seoul · Remote",
+  "summary": "I am a human-centric backend engineer who believes that the true value of technology lies in the lives it touches. While tools can generate code, I focus on designing trust.",
+  "about_en": "To me, backend development is not just about writing efficient logic, it is about architecting a reliable backbone that protects the stories and data of the people who use it.",
+  "highlights": [
+    "7+ years shipping backend systems",
+    "Specialized in Node.js, Python, Rust, Next.js, AWS",
+    "Backend, Frontend, even Mobile experiences"
+  ],
+  "skills": [
+    "Node.js",
+    "Python",
+    "Rust",
+    "Next.js",
+    "TypeScript",
+    "React",
+    "AWS",
+    "PostgreSQL",
+    "Prisma"
+  ],
+  "projects": [
+    {
+      "title": "Trust Ledger",
+      "description": "Resilient backend platform for identity verification and audit trails across partner services.",
+      "tags": [
+        "Backend",
+        "Security",
+        "Platform"
+      ],
+      "links": {
+        "live": "https://example.com",
+        "code": "https://github.com/ekklesia11"
+      }
+    }
+  ],
+  "posts": [
+    {
+      "title": "Designing Trust in Backend Systems",
+      "date": "2026-02-05",
+      "summary": "A short framework for reliability, observability, and human-centric system design."
+    }
+  ],
+  "contact": {
+    "email": "happyyquokka@gmail.com",
+    "github": "https://github.com/ekklesia11",
+    "linkedin": "https://linkedin.com/in/danielpark11"
+  }
+}
